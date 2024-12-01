@@ -3,7 +3,7 @@
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
 - <b>Metagenomics</b>
-  - [Exploring Marine microbial Metagenome Assembled Genomes for Novel Natural Product Drug Discovery]()
+  - [Exploring Marine microbial Metagenome Assembled Genomes for Novel Natural Product Drug Discovery](https://github.com/CbAsh07/Marine_MAGS)
 - <b>Machine Learning</b>
   - [Blood donor data Prediction](https://github.com/CbAsh07/ML_predict_blood_donation)
 
