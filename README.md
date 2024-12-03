@@ -3,12 +3,14 @@
 <h2>🧬 Bioinformatics Projects 👩🏻‍💻 </h2>
 
 - <b>Metagenomics</b>
-  - [Exploring Marine microbial Metagenome Assembled Genomes for Novel Natural Product Drug Discovery](https://github.com/CbAsh07/Marine_MAGS)
+  - [Exploring Marine microbial Metagenome Assembled Genomes for Novel Natural Product Drug Discovery- 2024](https://github.com/CbAsh07/Marine_MAGS)
 - <b>Metagenomics</b>
-  - [Gut microbial abundance post emodin treatment](https://github.com/CbAsh07/Microbial_abundance)
+  - [Gut microbial abundance post emodin treatment- 2024](https://github.com/CbAsh07/Microbial_abundance)
 
 <h2>📊 Data analytics Projects 👩🏻‍💻 </h2>
 - <b>Machine Learning</b>
-  - [Blood donor data Prediction](https://github.com/CbAsh07/ML_predict_blood_donation)
+  - [Blood donor data Prediction- 2024](https://github.com/CbAsh07/Microbial_abundance)
+- <b>Machine Learning</b>
+  - [Psypy- Mental health disorder diagnosis App- 2022](https://github.com/CbAsh07/PsyPy)
 
 
