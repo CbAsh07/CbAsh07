@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aiswarya C Bansidhar (Ash)! <br/><a href="https://github.com/CbAsh07">Certified Bioinformatician</a> / <a href="https://www.linkedin.com/in/aiswarya-c-bansidhar-37447a188/">Bioinformatics Research Specialist</a></h1>
+<h1>Hi, I'm Aiswarya C Bansidhar (Ash)! <br/><a href="https://github.com/CbAsh07">Certified Bioinformatician</a> | <a href="https://www.linkedin.com/in/aiswarya-c-bansidhar-37447a188/">Bioinformatics Research Specialist</a></h1>
 
 <h2>🧬 Bioinformatics Projects 👩🏻‍💻 </h2>
 
