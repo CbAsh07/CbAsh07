@@ -13,5 +13,6 @@
   - [Blood donor data Prediction- 2024](https://github.com/CbAsh07/ML_predict_blood_donation)
 - <b>Machine Learning</b>
   - [Psypy- Mental health disorder diagnosis App- 2022](https://github.com/CbAsh07/PsyPy)
+  - [#Note: Acknowledgements to ChatGPT for the creation of this GitHub portfolio page]
 
 
