@@ -3,7 +3,7 @@
 <h2>🧬 Bioinformatics Projects 👩🏻‍💻 </h2>
 
 - <b>Bioinformatics pipeline development</b>
-  - [RNA-Seq analysis pipeline for genomics and transcriptomics analysis- 2025](https://github.com/CbAsh07/RNA-Seq_Pipeline)
+  - [RNA-Seq analysis pipeline for genomics and transcriptomics data analysis- 2025](https://github.com/CbAsh07/RNA-Seq_Pipeline)
 - <b>Metagenomics</b>
   - [Exploring Marine microbial Metagenome Assembled Genomes for Novel Natural Product Drug Discovery- 2024](https://github.com/CbAsh07/Marine_MAGS)
 - <b>Metagenomics</b>
