@@ -3,33 +3,6 @@
   <a href="https://www.linkedin.com/in/aiswarya-c-bansidhar-37447a188/">Bioinformatics Research Specialist</a>
 </h1>
 
-<h2>🧬 Bioinformatics Projects 👩🏻‍💻</h2>
-<ul>
-  <li><b>Bioinformatics pipeline development</b>
-    <ul>
-      <li><a href="https://github.com/CbAsh07/RNA-Seq_Pipeline">RNA-Seq analysis pipeline for genomics & transcriptomics data analysis — 2025</a></li>
-    </ul>
-  </li>
-  <li><b>Metagenomics</b>
-    <ul>
-      <li><a href="https://github.com/CbAsh07/Marine_MAGS">Exploring Marine microbial MAGs for Natural Product Drug Discovery — 2024</a></li>
-      <li><a href="https://github.com/CbAsh07/Microbial_abundance">Gut microbial abundance post drug treatment — 2024</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h2>📊 Data Analytics Projects 👩🏻‍💻</h2>
-<ul>
-  <li><b>Machine Learning</b>
-    <ul>
-      <li><a href="https://github.com/CbAsh07/ML_predict_blood_donation">Blood donor prediction model — 2024</a></li>
-      <li><a href="https://github.com/CbAsh07/PsyPy">Psypy: Mental health disorder diagnosis app — 2022</a></li>
-    </ul>
-  </li>
-</ul>
-
-<br/>
-
 <h2>🎓 Qualifications</h2>
 <h3>Education</h3>
 <ul>
@@ -89,6 +62,30 @@
   <li>Report Writing & Presentation</li>
   <li>Cross-Cultural Communication</li>
   <li>Team Collaboration & Coordination</li>
+</ul>
+<h2>🧬 Bioinformatics Projects 👩🏻‍💻</h2>
+<ul>
+  <li><b>Bioinformatics pipeline development</b>
+    <ul>
+      <li><a href="https://github.com/CbAsh07/RNA-Seq_Pipeline">RNA-Seq analysis pipeline for genomics & transcriptomics data analysis — 2025</a></li>
+    </ul>
+  </li>
+  <li><b>Metagenomics</b>
+    <ul>
+      <li><a href="https://github.com/CbAsh07/Marine_MAGS">Exploring Marine microbial MAGs for Natural Product Drug Discovery — 2024</a></li>
+      <li><a href="https://github.com/CbAsh07/Microbial_abundance">Gut microbial abundance post drug treatment — 2024</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2>📊 Data Analytics Projects 👩🏻‍💻</h2>
+<ul>
+  <li><b>Machine Learning</b>
+    <ul>
+      <li><a href="https://github.com/CbAsh07/ML_predict_blood_donation">Blood donor prediction model — 2024</a></li>
+      <li><a href="https://github.com/CbAsh07/PsyPy">Psypy: Mental health disorder diagnosis app — 2022</a></li>
+    </ul>
+  </li>
 </ul>
 
 <br/>
