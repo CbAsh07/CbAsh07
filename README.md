@@ -86,7 +86,7 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 <img src="assets/genaicodesignal.png" width="420"/>
 <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/192" target="_blank">View Credential</a>
 <br><br>
-
+ 
 <strong>MedTour Easy Analytics (Internship) — 2025</strong><br>
 <img src="assets/medtour-easy-analytics.png" width="420"/><br>
 
