@@ -5,7 +5,7 @@
 PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 years of professional experience in data-driven scientific research and global collaboration in the United States. Experienced in analyzing data, coordinating teams, and supporting large-scale academic and management events.
 </p>
 
-<h2>🎓 Qualification</h2>
+<h2>🎓 Qualifications</h2>
 
 <h2>📖 Education</h2>
 <ul>
