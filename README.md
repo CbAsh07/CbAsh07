@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aiswarya C Bansidhar (Ash)!</h1>
 
-<h2>🧾 Profile Summary</h2>
+<h2>🧾 About me</h2>
 <p>
 PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 years of professional experience in data-driven scientific research and global collaboration in the United States. Experienced in analyzing data, coordinating teams, and supporting large-scale academic and management events.
 </p>
