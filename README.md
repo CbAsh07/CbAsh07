@@ -28,7 +28,12 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 <h2>📁 Projects</h2>
 
 <ul>
-  <li><b>Marine natural products medicinal drug discovery</b> — 2019–2024</li>
+  <li>
+    <b>Marine Natural Products Medicinal Drug Discovery</b> — 2019–2024<br/>
+    <i>Preprint:</i> Barman S, Abiodun A, Hossain MW, Parris A, Chandrasseril AB, Older EA, Li J, Decho AW, Tang C. 
+    <a href="https://doi.org/10.1101/2024.11.19.623429" target="_blank">The role of secondary structures of peptide polymers on antimicrobial efficacy and antibiotic potentiation</a>. 
+    bioRxiv [Preprint]. 2024 Nov 20. PMID: 39605571; PMCID: PMC11601527.
+  </li>
 </ul>
 
 <h3>🧬 Bioinformatics Projects 👩🏻‍💻</h3>
@@ -59,22 +64,33 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 <h2>📜 Certificates & Training (2024–2025)</h2>
 
 <strong>Google Data Analytics Professional Certificate — 2024</strong><br>
+<img src="assets/google-data-analytics.png" width="420"/><br>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/GXO1VDQFKDW5" target="_blank">Coursera Verified Credential</a>
+<br><br>
 
 <strong>Data Analyst Training (MedTourEasy) — 2024</strong><br>
 <img src="assets/medtour-easy-analytics.png" width="420"/>
+<br><br>
 
 <strong>Basic Programming in Python (CodeSignal) — 2025</strong><br>
-<img src="assets/python-codesignal.png" width="420"/>
+<img src="assets/python-codesignal.png" width="420"/><br>
+<a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/11" target="_blank">View Credential</a>
+<br><br>
 
 <strong>Generative AI for Everyone (CodeSignal) — 2025</strong><br>
-<img src="assets/gen-ai-codesignal.png" width="420"/>
+<img src="assets/gen-ai-codesignal.png" width="420"/><br>
+<a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/192" target="_blank">View Credential</a>
+<br><br>
 
 <strong>Comprehensive Intro to HTML — 2025</strong><br>
-<img src="assets/html-intro.png" width="420"/>
+<img src="assets/html-intro.png" width="420"/><br>
+<a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/50" target="_blank">View Credential</a>
+<br><br>
 
 <strong>Mastering SQL Functions & Clauses — 2025</strong><br>
-<img src="assets/sql-functions.png" width="420"/>
+<img src="assets/sql-functions.png" width="420"/><br>
+<a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/courses/677" target="_blank">View Credential</a>
+
 
 <h2>🛠 Skills</h2>
 <ul>
@@ -88,22 +104,26 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
   <li>
     <b>National Coordinator – ISSCA (India Sakura Science Club Alumni Association)</b> — 2020–Current<br/>
     <i>Japan Science and Technology Agency (JST)</i><br/>
-    • Facilitated Indo-Japanese collaboration through 5 annual meetings, alumni networking, and liaison support between JST officials and Indian SSC alumni.
-  </li>
-  
-  <li>
-    <b>Student Coordinator – Kerala Management Association (KMA)</b> — 2026<br/>
-    • Coordinated VIP front-desk operations at the 43rd KMA Annual Management Convention (2026), supporting stakeholder engagement and smooth event execution.
+    • Facilitated Indo-Japanese collaboration through 5 annual meetings, alumni networking, and liaison support between JST officials and Indian SSC alumni.<br/>
+    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_issca-sakurascience-iitdelhi-activity-7385572697357012992-1vYU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post</a>
   </li>
 
   <li>
-    <b>IEDC (Innovation and Entrepreneurship Development Centre) Coordinator – Kerala Startup Mission</b> — 2025<br/>
-    • Pitched the AI4Disco innovation concept at Smart India Hackathon (Internals) and represented SCMS at the IEDC Summit at LBS Engineering College, Kasaragod.
+    <b>Student Coordinator – Kerala Management Association (KMA)</b> — 2026<br/>
+    • Coordinated VIP front-desk operations at the 43rd KMA Annual Management Convention (2026), supporting stakeholder engagement and smooth event execution.<br/>
+    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_managementconvention-experientiallearning-activity-7420337006192312321-CGd6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post</a>
+  </li>
+
+  <li>
+    <b>IEDC (Innovation and Entrepreneurship Development Centre) Coordinator</b> — 2025<br/>
+    • Pitched the AI4Disco innovation concept at Smart India Hackathon (Internals) and represented SCMS at the IEDC Summit at LBS Engineering College, Kasaragod.<br/>
+    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_smartindiahackathon-drugdiscovery-innovation-activity-7377399043137626112-ntMA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post</a>
   </li>
 
   <li>
     <b>Website Coordinator – SHIKHAR 2025 International Management Fest</b> — 2025<br/>
-    • Designed and developed the event website on Lovable and reviewed post-launch engagement metrics to assess user response.
+    • Designed and developed the event website on Lovable and reviewed post-launch engagement metrics to assess user response.<br/>
+    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_lovable-webdevelopment-learningjourney-activity-7401286591064985601-5cwh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post</a>
   </li>
 </ul>
 
