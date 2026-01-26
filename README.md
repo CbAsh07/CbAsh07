@@ -62,19 +62,19 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/GXO1VDQFKDW5" target="_blank">Coursera Verified Credential</a>
 
 <strong>Data Analyst Training (MedTourEasy) — 2024</strong><br>
-<img src="assets/certificates/medtour-easy-analytics.png" width="420"/>
+<img src="assets/medtour-easy-analytics.png" width="420"/>
 
 <strong>Basic Programming in Python (CodeSignal) — 2025</strong><br>
-<img src="assets/certificates/python-codesignal.png" width="420"/>
+<img src="assets/python-codesignal.png" width="420"/>
 
 <strong>Generative AI for Everyone (CodeSignal) — 2025</strong><br>
-<img src="assets/certificates/gen-ai-codesignal.png" width="420"/>
+<img src="assets/gen-ai-codesignal.png" width="420"/>
 
 <strong>Comprehensive Intro to HTML — 2025</strong><br>
-<img src="assets/certificates/html-intro.png" width="420"/>
+<img src="assets/html-intro.png" width="420"/>
 
 <strong>Mastering SQL Functions & Clauses — 2025</strong><br>
-<img src="assets/certificates/sql-functions.png" width="420"/>
+<img src="assets/sql-functions.png" width="420"/>
 
 <h2>🛠 Skills</h2>
 <ul>
