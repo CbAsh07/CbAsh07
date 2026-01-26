@@ -61,7 +61,7 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
   </li>
 </ul>
 
-<h2>📜 Certificates & Training (2024–2025)</h2>
+<h2>📜 Certificates & Trainings </h2>
 
 <strong>Google Data Analytics Professional Certificate — 2024</strong><br>
 <a href="https://www.coursera.org/account/accomplishments/professional-cert/GXO1VDQFKDW5" target="_blank">View Credential</a>
