@@ -7,7 +7,7 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 
 <h2>🎓 Qualification</h2>
 
-<h2>Education</h2>
+<h2>📖 Education</h2>
 <ul>
   <li>PGDM, SCMS Cochin School of Business — 2025–2027 (Pursuing)</li>
   <li>Graduate Certificate, Bioinformatics, University of North Carolina at Charlotte, USA — Jan–Dec 2023 (GPA 3.75/4)</li>
