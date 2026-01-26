@@ -61,32 +61,42 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
   </li>
 </ul>
 
+
 <h2>📜 Certificates & Trainings </h2>
 
-<strong>Google Data Analytics Professional Certificate — 2024</strong><br>
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/GXO1VDQFKDW5" target="_blank">View Credential</a>
-<br><br>
+<!-- Certificates Grid -->
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: flex-start;">
 
-<strong>Comprehensive Intro to HTML — 2025</strong><br>
-<img src="assets/html-intro.png" width="420"/><br>
-<a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/50" target="_blank">View Credential</a>
-<br><br>
+  <!-- Certificate 1 -->
+  <div style="width: 45%; background-color: #f8f8f8; color: #000; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+    <img src="assets/html-intro.png" width="100%" alt="HTML Certificate" style="border-radius: 5px; margin-bottom: 8px;">
+    <div><b>Comprehensive Intro to HTML — 2025</b></div>
+    <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/50" target="_blank">View Credential</a>
+  </div>
 
-<strong>Mastering SQL Functions & Clauses — 2025</strong><br>
-<img src="assets/sql-functions.png" width="420"/><br>
-<a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/courses/677" target="_blank">View Credential</a>
-<br><br>
+  <!-- Certificate 2 -->
+  <div style="width: 45%; background-color: #f8f8f8; color: #000; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+    <img src="assets/sql-functions.png" width="100%" alt="SQL Certificate" style="border-radius: 5px; margin-bottom: 8px;">
+    <div><b>Mastering SQL Functions & Clauses — 2025</b></div>
+    <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/courses/677" target="_blank">View Credential</a>
+  </div>
 
-<strong>Basic Programming in Python (CodeSignal) — 2025</strong><br>
-<img src="assets/pythoncodesignal.png" width="420"/><br>
-<a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/11" target="_blank">View Credential</a>
-<br><br>
+  <!-- Certificate 3 -->
+  <div style="width: 45%; background-color: #f8f8f8; color: #000; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+    <img src="assets/pythoncodesignal.png" width="100%" alt="Python Certificate" style="border-radius: 5px; margin-bottom: 8px;">
+    <div><b>Basic Programming in Python (CodeSignal) — 2025</b></div>
+    <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/11" target="_blank">View Credential</a>
+  </div>
 
-<strong>Generative AI for Everyone (CodeSignal) — 2025</strong><br>
-<img src="assets/genaicodesignal.png?v=2" width="420"/><br>
-<a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/192" target="_blank">View Credential</a>
-<br><br>
- 
+  <!-- Certificate 4 -->
+  <div style="width: 45%; background-color: #f8f8f8; color: #000; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+    <img src="assets/genaicodesignal.png?v=2" width="100%" alt="Generative AI Certificate" style="border-radius: 5px; margin-bottom: 8px;">
+    <div><b>Generative AI for Everyone (CodeSignal) — 2025</b></div>
+    <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/192" target="_blank">View Credential</a>
+  </div>
+
+</div>
+
 <strong>MedTour Easy Analytics (Internship) — 2025</strong><br>
 <img src="assets/medtour-easy-analytics.png" width="420"/><br>
 
