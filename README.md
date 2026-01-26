@@ -56,10 +56,25 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
   </li>
 </ul>
 
-<h2>📜 Certificates & Trainings</h2>
-<ul>
-  <li>Data Analyst trainee — Google Data Analytics Professional Certificate + Basic Programming in Python, SQL, HTML — MedTourEasy & CodeSignal (Online), 2024–2025</li>
-</ul>
+<h2>📜 Certificates & Training (2024–2025)</h2>
+
+<strong>Google Data Analytics Professional Certificate — 2024</strong><br>
+<img src="assets/certificates/google-data-analytics.png" width="420"/>
+
+<strong>Data Analyst Training (MedTourEasy) — 2024</strong><br>
+<img src="assets/certificates/medtour-easy-analytics.png" width="420"/>
+
+<strong>Basic Programming in Python (CodeSignal) — 2025</strong><br>
+<img src="assets/certificates/python-codesignal.png" width="420"/>
+
+<strong>Generative AI for Everyone (CodeSignal) — 2025</strong><br>
+<img src="assets/certificates/gen-ai-codesignal.png" width="420"/>
+
+<strong>Comprehensive Intro to HTML — 2025</strong><br>
+<img src="assets/certificates/html-intro.png" width="420"/>
+
+<strong>Mastering SQL Functions & Clauses — 2025</strong><br>
+<img src="assets/certificates/sql-functions.png" width="420"/>
 
 <h2>🛠 Skills</h2>
 <ul>
@@ -70,11 +85,25 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 
 <h2>🤝 Leadership, Management & Volunteering</h2>
 <ul>
-  <li><b>National Coordinator – ISSCA (India Sakura Science Club Alumni Association)</b> — 2020–Current<br/>
-    <i>Facilitated Indo-Japanese collaboration through 5 annual meetings, alumni networking, and liaison support between JST officials and Indian SSC alumni.</i>
+  <li>
+    <b>National Coordinator – ISSCA (India Sakura Science Club Alumni Association)</b> — 2020–Current<br/>
+    <i>Japan Science and Technology Agency (JST)</i><br/>
+    • Facilitated Indo-Japanese collaboration through 5 annual meetings, alumni networking, and liaison support between JST officials and Indian SSC alumni.
   </li>
-  <li><b>Website Development & Analytics – SHIKHAR 2025 International Management Fest</b> — 2025<br/>
-    <i>Contributed to website designing, development and reviewed post-launch engagement metrics to assess user response.</i>
+  
+  <li>
+    <b>Student Coordinator – Kerala Management Association (KMA)</b> — 2026<br/>
+    • Coordinated VIP front-desk operations at the 43rd KMA Annual Management Convention (2026), supporting stakeholder engagement and smooth event execution.
+  </li>
+
+  <li>
+    <b>IEDC (Innovation and Entrepreneurship Development Centre) Coordinator – Kerala Startup Mission</b> — 2025<br/>
+    • Pitched the AI4Disco innovation concept at Smart India Hackathon (Internals) and represented SCMS at the IEDC Summit at LBS Engineering College, Kasaragod.
+  </li>
+
+  <li>
+    <b>Website Coordinator – SHIKHAR 2025 International Management Fest</b> — 2025<br/>
+    • Designed and developed the event website on Lovable and reviewed post-launch engagement metrics to assess user response.
   </li>
 </ul>
 
