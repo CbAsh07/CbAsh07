@@ -78,12 +78,12 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 <br><br>
 
 <strong>Basic Programming in Python (CodeSignal) — 2025</strong><br>
-<img src="assets/pythoncodesignal.png" width="420"/>
+<img src="assets/pythoncodesignal.png" width="420"/><br>
 <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/11" target="_blank">View Credential</a>
 <br><br>
- 
+
 <strong>Generative AI for Everyone (CodeSignal) — 2025</strong><br>
-<img src="assets/genaicodesignal.png" width="420"/>
+<img src="assets/genaicodesignal.png?v=2" width="420"/><br>
 <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/192" target="_blank">View Credential</a>
 <br><br>
  
@@ -103,30 +103,49 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
     <b>National Coordinator – ISSCA (India Sakura Science Club Alumni Association)</b> — 2020–Current<br/>
     <i>Japan Science and Technology Agency (JST)</i><br/>
     • Facilitated Indo-Japanese collaboration through 5 annual meetings, alumni networking, and liaison support between JST officials and Indian SSC alumni.<br/>
-    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_issca-sakurascience-iitdelhi-activity-7385572697357012992-1vYU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post</a>
+    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_issca-sakurascience-iitdelhi-activity-7385572697357012992-1vYU?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post-ISSCA</a>
   </li>
 
   <li>
     <b>Student Coordinator – Kerala Management Association (KMA)</b> — 2026<br/>
     • Coordinated VIP front-desk operations at the 43rd KMA Annual Management Convention (2026), supporting stakeholder engagement and smooth event execution.<br/>
-    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_managementconvention-experientiallearning-activity-7420337006192312321-CGd6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post</a>
+    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_managementconvention-experientiallearning-activity-7420337006192312321-CGd6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post-KMA</a>
   </li>
 
   <li>
     <b>IEDC (Innovation and Entrepreneurship Development Centre) Coordinator</b> — 2025<br/>
     • Pitched the AI4Disco innovation concept at Smart India Hackathon (Internals) and represented SCMS at the IEDC Summit at LBS Engineering College, Kasaragod.<br/>
-    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_smartindiahackathon-drugdiscovery-innovation-activity-7377399043137626112-ntMA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post</a>
+    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_smartindiahackathon-drugdiscovery-innovation-activity-7377399043137626112-ntMA?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post-IEDC</a>
   </li>
 
   <li>
     <b>Website Coordinator – SHIKHAR 2025 International Management Fest</b> — 2025<br/>
     • Designed and developed the event website on Lovable and reviewed post-launch engagement metrics to assess user response.<br/>
-    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_lovable-webdevelopment-learningjourney-activity-7401286591064985601-5cwh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post</a>
+    <a href="https://www.linkedin.com/posts/aiswarya-c-bansidhar-37447a188_lovable-webdevelopment-learningjourney-activity-7401286591064985601-5cwh?utm_source=share&utm_medium=member_desktop&rcm=ACoAACw1LIgB3PD02_a103BWxOTBEG_uOGJAFYA" target="_blank">LinkedIn Post-SHIKHAR25</a>
   </li>
 </ul>
 
 <h2>🌏 International Experience</h2>
 <ul>
+
   <li><b>University Sponsored J-1 Exchange Scholar</b> — University of North Carolina at Wilmington, USA — 2022</li>
+
+  <br>
+  <img src="assets/us1.png" width="420"/><br>
+  <img src="assets/us2.png" width="420"/><br>
+  <img src="assets/us3.png" width="420"/><br>
+  <br>
+
   <li><b>JST Sponsored Asia Youth Exchange Student</b> — Sado Marine Biological Station (SMBS), Niigata University, Japan — 2018</li>
+
+  <br>
+  <img src="assets/jp1.png" width="420"/><br>
+  <img src="assets/jp2.png" width="420"/><br>
+  <img src="assets/jp3.png" width="420"/><br>
+
+  <br>
+  <a href="https://youtu.be/dL429OMoawY?si=zNpwxUWmAeVZ3sGj" target="_blank">▶️ Japanese Sakura Science Program Alumni Interview(YouTube)</a><br>
+  <a href="https://ssp.jst.go.jp/sns/voice/2024/profile_2503_04.html" target="_blank">🌐 Sakura Science Program — Alumni Reflection & Experience</a>
+
 </ul>
+
