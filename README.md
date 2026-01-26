@@ -81,7 +81,7 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 <img src="assets/python-codesignal.png" width="420"/><br>
 <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/11" target="_blank">View Credential</a>
 <br><br>
-
+ 
 <strong>Generative AI for Everyone (CodeSignal) — 2025</strong><br>
 <img src="assets/gen-ai-codesignal.png" width="420"/><br>
 <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/192" target="_blank">View Credential</a>
