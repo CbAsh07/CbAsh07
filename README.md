@@ -69,28 +69,24 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 
   <!-- Certificate 1 -->
   <div style="width: 30%; background-color: #f8f8f8; color: #000; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-    <img src="assets/html-intro.png" width="100%" alt="HTML Certificate" style="border-radius: 5px; margin-bottom: 8px;">
     <div><b>Comprehensive Intro to HTML — 2025</b></div>
     <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/50" target="_blank">View Credential</a>
   </div>
 
   <!-- Certificate 2 -->
   <div style="width: 30%; background-color: #f8f8f8; color: #000; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-    <img src="assets/sql-functions.png" width="100%" alt="SQL Certificate" style="border-radius: 5px; margin-bottom: 8px;">
     <div><b>Mastering SQL Functions & Clauses — 2025</b></div>
     <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/courses/677" target="_blank">View Credential</a>
   </div>
 
   <!-- Certificate 3 -->
   <div style="width: 30%; background-color: #f8f8f8; color: #000; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-    <img src="assets/pythoncodesignal.png" width="100%" alt="Python Certificate" style="border-radius: 5px; margin-bottom: 8px;">
     <div><b>Basic Programming in Python (CodeSignal) — 2025</b></div>
     <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/11" target="_blank">View Credential</a>
   </div>
 
   <!-- Certificate 4 -->
   <div style="width: 30%; background-color: #f8f8f8; color: #000; border-radius: 8px; padding: 10px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-    <img src="assets/genaicodesignal.png?v=2" width="100%" alt="Generative AI Certificate" style="border-radius: 5px; margin-bottom: 8px;">
     <div><b>Generative AI for Everyone (CodeSignal) — 2025</b></div>
     <a href="https://codesignal.com/learn/certificates/cm4l9tof900057o3uipj6y4nz/course-paths/192" target="_blank">View Credential</a>
   </div>
@@ -98,7 +94,6 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 </div>
 
 <strong>MedTour Easy Analytics (Internship) — 2025</strong><br>
-<img src="assets/medtour-easy-analytics.png" width="420"/><br>
 
 <h2>🛠 Skills</h2>
 <ul>
@@ -140,20 +135,8 @@ PGDM (1st Year) student with a strong interest in Business Analytics, with 1.4 y
 
   <li><b>University Sponsored J-1 Exchange Scholar</b> — University of North Carolina at Wilmington, USA — 2022</li>
 
-  <br>
-  <img src="assets/us1.png" width="420"/><br>
-  <img src="assets/us2.png" width="420"/><br>
-  <img src="assets/us3.png" width="420"/><br>
-  <br>
-
   <li><b>JST Sponsored Asia Youth Exchange Student</b> — Sado Marine Biological Station (SMBS), Niigata University, Japan — 2018</li>
 
-  <br>
-  <img src="assets/jp1.png" width="420"/><br>
-  <img src="assets/jp2.png" width="420"/><br>
-  <img src="assets/jp3.png" width="420"/><br>
-
-  <br>
   <a href="https://youtu.be/dL429OMoawY?si=zNpwxUWmAeVZ3sGj" target="_blank">▶️ Japanese Sakura Science Program Alumni Interview(YouTube)</a><br>
   <a href="https://ssp.jst.go.jp/sns/voice/2024/profile_2503_04.html" target="_blank">🌐 Sakura Science Program — Alumni Reflection & Experience</a>
 
